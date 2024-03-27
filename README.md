@@ -12,7 +12,7 @@ As for this project, we know that the LLMs could help with identifying the ICD c
 ## Originate
 
 This project is inspired by [Mimic-IV-ICD: A new benchmark for eXtreme MultiLabel Classificatio](https://arxiv.org/abs/2304.13998),
-and beyond that, we would like to dig further based on this idea.
+and beyond that, we would like to dig further on using different models for ICD classification.
 
 ### Contribution
 
