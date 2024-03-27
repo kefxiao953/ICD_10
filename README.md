@@ -16,9 +16,9 @@ and beyond that, we would like to dig further on using different models for ICD 
 
 ### Contribution
 
-**Kefeng** - Meditron 7B
-**Victor** - [Falcon 1B](Single_GPU_FineTuning_ICD_data.ipynb)
-**John** - Biomistral 7B
-**Yepeng** - Mistral 7B
-**Nithin** - Gemma
+**Kefeng** - Meditron 7B \
+**Victor** - [Falcon 1B](Single_GPU_FineTuning_ICD_data.ipynb) \
+**John** - Biomistral 7B\
+**Yepeng** - Mistral 7B\
+**Nithin** - Gemma\
 
