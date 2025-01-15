@@ -1,4 +1,4 @@
-# ICD_10
+# ICD_10_LLM
 The International Classification of Diseases, Tenth Revision (ICD-10) is a medical classification system developed by the World Health Organization (WHO). It serves as a global standard for diagnosing and classifying diseases, symptoms, abnormal findings, complaints, social circumstances, and external causes of injury or diseases. ICD-10 allows for the systematic recording, analysis, interpretation, and comparison of mortality and morbidity data across different countries and time periods.
 
 Introduced in 1990 to replace the ninth revision (ICD-9), ICD-10 provides a significantly more detailed classification system, which includes codes for diseases, signs and symptoms, abnormal findings, complaints, and external causes of injury or diseases. This detail allows for a more precise description of diagnoses and procedures, facilitating the collection of global health information for statistical purposes and epidemiological studies.
